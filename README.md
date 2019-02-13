@@ -1,5 +1,10 @@
-#### Scala exercise
+### Scala exercise
 
-Tailrec
+#### Tailrec
 - fibonacci
 - factorial
+
+#### Algorithms
+##### Sorting
+- insertion sort
+- merge sort
