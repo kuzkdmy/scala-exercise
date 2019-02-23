@@ -11,6 +11,7 @@
 - bubble sort(simple java int array style)
 - quick sort(simple java int array style)
 - counting sort(simple java int array style)
+- bucket sort(simple java int array style)
 
 ##### Data Structure
 - tree, binary tree
