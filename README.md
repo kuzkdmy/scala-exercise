@@ -15,3 +15,6 @@
 
 ##### Data Structure
 - tree, binary tree
+
+##### Exercises
+- diagonal difference (Int[][])
